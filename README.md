@@ -7,7 +7,7 @@ Foundation Service
 
 TL;DR
 -----
-Foundation service in laravel
+Foundation service in laravel.
 
 Install
 -------
