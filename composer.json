@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "goodjun\\foundation-service\\": "src/"
+            "goodjun\\FoundationService\\": "src/"
         }
     }
 }
