@@ -1,5 +1,5 @@
 {
-    "name": "wiltechs/foundation-service",
+    "name": "goodjun/foundation-service",
     "description": "Foundation Service",
     "license": "MIT",
     "authors": [
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wiltechs\\foundation-service\\": "src/"
+            "goodjun\\foundation-service\\": "src/"
         }
     }
 }
